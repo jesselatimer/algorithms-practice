@@ -1,4 +1,3 @@
-```ruby
 require 'set'
 def four_sum(arr, target)
   results = {}
@@ -23,4 +22,3 @@ def four_sum(arr, target)
 
   false
 end
-```
